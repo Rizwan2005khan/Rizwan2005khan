@@ -97,7 +97,7 @@ Currently looking for junior / associate full-stack roles where I can contribute
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rizwanullah-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizwan2005khan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
 <br/>
 
@@ -105,7 +105,7 @@ Currently looking for junior / associate full-stack roles where I can contribute
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rizwan2005khan&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rizwanullah-dev&theme=github-dark&hide_border=true" />
 
 </div>
 

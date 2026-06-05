@@ -93,23 +93,22 @@ Currently looking for junior / associate full-stack roles where I can contribute
 ```
 
 
-## GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rizwanullah-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanullah-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizwanullah-dev&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rizwanullah-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rizwanullah-dev&theme=github-dark&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizwanullah-dev&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanullah-dev&theme=github-dark" />
 
 </div>
+
 ---
 
 ## Currently

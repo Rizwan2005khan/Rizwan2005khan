@@ -98,17 +98,25 @@ Currently looking for junior / associate full-stack roles where I can contribute
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-ten-delta-49.vercel.app/api?username=rizwanullah-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats-ten-delta-49.vercel.app/api/top-langs/?username=rizwanullah-dev&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizwanullah-dev&theme=github_dark" alt="Profile Summary" />
 
 <br/><br/>
 
-<img width="98%" src="https://streak-stats.demolab.com?user=rizwanullah-dev&theme=github-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rizwanullah-dev&theme=github-dark&hide_border=true&border_radius=6" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizwanullah-dev&theme=github_dark" />
+<img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api?username=rizwanullah-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api/top-langs/?username=rizwanullah-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanullah-dev&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rizwanullah-dev&theme=onestar&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 

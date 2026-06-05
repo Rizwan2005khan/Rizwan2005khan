@@ -97,11 +97,6 @@ Currently looking for junior / associate full-stack roles where I can contribute
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rizwanullah-dev&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rizwanullah-dev&theme=github_dark&utcOffset=5" />
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizwanullah-dev&theme=github_dark" alt="Profile Summary" />
 
 <br/><br/>

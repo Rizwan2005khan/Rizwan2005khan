@@ -116,7 +116,11 @@ Currently looking for junior / associate full-stack roles where I can contribute
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rizwanullah-dev&theme=onestar&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies" />
+<!-- Tokyo Night Theme -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=rizwanullah-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+
+
 
 </div>
 

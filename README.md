@@ -1,4 +1,3 @@
-hy i want to edit my readme.md file in github but some of the images not working stats images not working replace it with good one
 <div align="center">
 
 ```
@@ -113,12 +112,6 @@ Currently looking for junior / associate full-stack roles where I can contribute
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanullah-dev&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
-
-<br/><br/>
-
-<!-- Tokyo Night Theme -->
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rizwanullah-dev&theme=onestar&no-frame=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 

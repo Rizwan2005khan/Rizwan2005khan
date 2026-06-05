@@ -1,3 +1,4 @@
+hy i want to edit my readme.md file in github but some of the images not working stats images not working replace it with good one
 <div align="center">
 
 ```
@@ -93,19 +94,19 @@ Currently looking for junior / associate full-stack roles where I can contribute
 ```
 
 
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizwanullah-dev&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=rizwan2005khan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<br/><br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanullah-dev&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=rizwanullah-dev&theme=github-dark&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanullah-dev&theme=github-dark" />
 
 </div>
 

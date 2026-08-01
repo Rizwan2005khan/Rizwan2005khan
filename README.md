@@ -109,7 +109,7 @@ Currently looking for junior / associate full-stack roles where I can contribute
 &nbsp;
 <img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api/top-langs/?username=rizwanullah-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" /> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanullah-dev&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 

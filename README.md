@@ -105,9 +105,9 @@ Currently looking for junior / associate full-stack roles where I can contribute
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api?username=rizwanullah-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- <img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api?username=rizwanullah-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
-<img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api/top-langs/?username=rizwanullah-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api/top-langs/?username=rizwanullah-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" /> -->
 
 <br/><br/>
 

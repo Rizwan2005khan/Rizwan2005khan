@@ -103,7 +103,7 @@ Currently looking for junior / associate full-stack roles where I can contribute
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rizwanullah-dev&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <!-- <img height="165" src="https://github-readme-stats-ten-delta-49.vercel.app/api?username=rizwanullah-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 &nbsp;
